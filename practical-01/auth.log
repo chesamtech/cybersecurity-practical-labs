@@ -1,0 +1,7 @@
+2026-11-10 08:00:01 user=admin ip=192.0.2.10 status=FAILED
+2026-11-10 08:00:05 user=admin ip=192.0.2.10 status=FAILED
+2026-11-10 08:00:09 user=root ip=192.0.2.10 status=FAILED
+2026-11-10 08:01:15 user=samuel ip=192.0.2.20 status=SUCCESS
+2026-11-10 08:02:10 user=admin ip=192.0.2.30 status=FAILED
+2026-11-10 08:02:15 user=admin ip=192.0.2.30 status=FAILED
+2026-11-10 08:02:20 user=admin ip=192.0.2.30 status=FAILED
